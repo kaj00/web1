@@ -1,2 +1,2 @@
 # web1
-study HTML
+week1.study
